@@ -1,5 +1,5 @@
 # 會獲取該當月的所有資料
-
+# 一直連續抓可能會被 ban , maybe 50 次
 import requests
 import pandas as pd
 import datetime as dt
